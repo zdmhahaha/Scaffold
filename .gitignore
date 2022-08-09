@@ -20,7 +20,7 @@ target/
 *.ipr
 *.cmd
 /mvnw
-*.mvn
+.mvn
 
 
 ### NetBeans ###
